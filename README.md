@@ -1,3 +1,4 @@
 # My_Shell_Scripts
-This repository contains some daily use shell scripts
-#######################################################
+service_check.sh
+Thsi script checks if a service is running or not, if not running it will start the service and shows the status
+Just replace the service name withe what ever service we need to check
